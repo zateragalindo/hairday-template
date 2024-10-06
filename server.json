@@ -1,0 +1,39 @@
+{
+  "schedules": [
+    {
+      "id": 1728212420474,
+      "name": "Gabriel Galindo de Almeida",
+      "when": "2024-10-06T12:00:00.000Z"
+    },
+    {
+      "id": 1728212440703,
+      "name": "Victor Jacó",
+      "when": "2024-10-06T17:00:00.000Z"
+    },
+    {
+      "id": 1728212463361,
+      "name": "Aparecido Rodrigo",
+      "when": "2024-10-06T22:00:00.000Z"
+    },
+    {
+      "id": 1728214418964,
+      "name": "Gabriel Galindo de Almeida",
+      "when": "2024-10-07T15:00:00.000Z"
+    },
+    {
+      "id": 1728214638361,
+      "name": "Maria Divalci",
+      "when": "2024-10-07T14:00:00.000Z"
+    },
+    {
+      "id": 1728214681278,
+      "name": "Antonio Sucerro",
+      "when": "2024-10-07T20:00:00.000Z"
+    },
+    {
+      "id": 1728214689682,
+      "name": "Batista",
+      "when": "2024-10-07T22:00:00.000Z"
+    }
+  ]
+}
